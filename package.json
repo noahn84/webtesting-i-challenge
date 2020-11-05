@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "## Instroduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noahn84/webtesting-i-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noahn84/webtesting-i-challenge/issues"
+  },
+  "homepage": "https://github.com/noahn84/webtesting-i-challenge#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
